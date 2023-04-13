@@ -1,0 +1,9 @@
+2023-04-12 14:56:57,508 INFO org.apache.catalina.core.ContainerBase.[Tomcat-2].[localhost].[/] [http-nio-8085-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-12 14:56:57,513 INFO fr.leo.apirest.web.VoitureRestControler [http-nio-8085-exec-2] ***********************
+2023-04-12 14:56:57,923 INFO fr.leo.apirest.web.VoitureRestControler [http-nio-8085-exec-4] TROUVER TROUVER TROUVER TROUVER TROUVER 
+2023-04-12 14:56:58,098 INFO fr.leo.apirest.web.VoitureRestControler [http-nio-8085-exec-6] NOUVEAU NOUVEAU NOUVEAU NOUVEAU NOUVEAU
+2023-04-12 14:56:58,215 INFO fr.leo.apirest.web.VoitureRestControler [http-nio-8085-exec-8] UPDATE UPDATE UPDATE UPDATE UPDATE
+2023-04-12 14:57:42,494 INFO org.apache.catalina.core.StandardService [Thread-109] Stopping service [Tomcat]
+2023-04-12 14:57:42,500 INFO org.apache.catalina.core.ContainerBase.[Tomcat-2].[localhost].[/] [Thread-109] Destroying Spring FrameworkServlet 'dispatcherServlet'
+2023-04-12 14:57:42,514 INFO com.zaxxer.hikari.HikariDataSource [Thread-109] HikariPool-28 - Shutdown initiated...
+2023-04-12 14:57:42,521 INFO com.zaxxer.hikari.HikariDataSource [Thread-109] HikariPool-28 - Shutdown completed.

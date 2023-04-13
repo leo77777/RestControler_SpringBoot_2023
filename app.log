@@ -1,0 +1,31 @@
+2023-04-12 14:57:42,987 INFO fr.leo.apirest.ApiRestApplication [restartedMain] Starting ApiRestApplication using Java 17.0.6 on pcdefanny with PID 6444 (C:\Users\Fanny\eclipse-workspace-jee\ApiRest\target\classes started by Fanny in C:\Users\Fanny\eclipse-workspace-jee\ApiRest)
+2023-04-12 14:57:43,409 INFO fr.leo.apirest.ApiRestApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-04-12 14:57:44,027 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-04-12 14:57:44,028 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-12 14:57:44,103 INFO org.apache.catalina.core.ContainerBase.[Tomcat-2].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-04-12 14:57:44,192 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-04-12 14:57:44,201 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-29 - Starting...
+2023-04-12 14:57:44,211 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-29 - Start completed.
+2023-04-12 14:57:44,212 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MariaDBDialect
+2023-04-12 14:57:45,037 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-12 14:57:45,607 INFO fr.leo.apirest.ApiRestApplication [restartedMain] Started ApiRestApplication in 2.8 seconds (JVM running for 3757.255)
+2023-04-12 14:58:03,867 INFO org.apache.catalina.core.ContainerBase.[Tomcat-2].[localhost].[/] [http-nio-8085-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-12 14:58:03,872 INFO fr.leo.apirest.web.VoitureRestControler [http-nio-8085-exec-2] ***********************
+2023-04-12 14:58:04,246 INFO fr.leo.apirest.web.VoitureRestControler [http-nio-8085-exec-4] TROUVER TROUVER TROUVER TROUVER TROUVER 
+2023-04-12 14:58:04,446 INFO fr.leo.apirest.web.VoitureRestControler [http-nio-8085-exec-6] NOUVEAU NOUVEAU NOUVEAU NOUVEAU NOUVEAU
+2023-04-12 14:58:04,566 INFO fr.leo.apirest.web.VoitureRestControler [http-nio-8085-exec-8] UPDATE UPDATE UPDATE UPDATE UPDATE
+2023-04-12 15:21:54,876 INFO fr.leo.apirest.ApiRestApplication [restartedMain] Starting ApiRestApplication using Java 17.0.6 on pcdefanny with PID 3952 (C:\Users\Fanny\eclipse-workspace-jee\ApiRest\target\classes started by Fanny in C:\Users\Fanny\eclipse-workspace-jee\ApiRest)
+2023-04-12 15:21:54,885 INFO fr.leo.apirest.ApiRestApplication [restartedMain] No active profile set, falling back to 1 default profile: "default"
+2023-04-12 15:22:14,416 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2023-04-12 15:22:14,419 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.73]
+2023-04-12 15:22:14,834 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2023-04-12 15:22:17,421 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-04-12 15:22:17,581 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.15.Final
+2023-04-12 15:22:19,111 INFO org.hibernate.annotations.common.Version [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2023-04-12 15:22:19,767 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2023-04-12 15:22:20,746 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2023-04-12 15:22:20,794 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.MariaDBDialect
+2023-04-12 15:22:24,147 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-12 15:22:32,785 INFO fr.leo.apirest.ApiRestApplication [restartedMain] Started ApiRestApplication in 40.35 seconds (JVM running for 42.825)
+2023-04-12 15:22:33,194 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8085-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-04-12 15:22:43,237 INFO fr.leo.apirest.web.VoitureRestControler [http-nio-8085-exec-6] ***********************
