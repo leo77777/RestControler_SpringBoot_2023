@@ -1,2 +1,2 @@
-# Spring_RestControler_2023
-Spring RestControler 2023 
+# RestControler_SpringBoot_2023
+RestControler with SpringBoot
